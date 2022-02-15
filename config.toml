@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://dazzling-feynman-207c6c.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Mrudula Arunkumar"
