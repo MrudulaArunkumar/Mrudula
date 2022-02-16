@@ -1,4 +1,4 @@
-baseURL = "https://dazzling-feynman-207c6c.netlify.app/"
+baseURL = "https://mrudulaarunkumar.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Mrudula Arunkumar"
@@ -9,7 +9,7 @@ disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 8
+paginate = 5
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -30,10 +30,12 @@ enableEmoji = true
 [params]
   orgName = "RStudio"
   orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  #description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Personal Website of Mrudula Arunkumar"
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  #logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/favicon.ico"
+  mainSections = ["project", "talk"] #involves the sections mentioned in the About Page
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -41,7 +43,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/papillons.jpg"  #the image that should appear when website is shared - need to take a screenshot
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "mrudula56"
   
@@ -71,7 +73,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "apreshill/apero"
+    repo_name = "MrudulaArunkumar/Mrudula"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
@@ -126,26 +128,26 @@ enableEmoji = true
     title = "About Mrudula"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Journey"
-    title = "Journey..."
-    url = "/Journey/"
-    weight = 2
+  #[[menu.header]]
+   # name = "Journey"
+    #title = "Journey..."
+    #url = "/Journey/"
+    #weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Presentation"
     title = "Talks & Posters"
     url = "/Presentation/"
-    weight = 4
+    weight = 3
   [[menu.header]]
     name = "Publication"
     title = "Publication"
     url = "/Publication/"
-    weight = 5
+    weight = 4
     
   # Configure footer  
   [[menu.footer]]

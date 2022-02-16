@@ -1,17 +1,28 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "The Journey so far" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  What interested me the most about Psychology was how the aspects of our day-to-day behaviour can be explained and that it is possible to dig deeper into what goes behind such behaviours. During my undergraduation, cognitive psychology specifically drew my interest as it felt closest to what inspired me to choose to study psychology. While pursuing a Masters degree, I learnt more about language processing and explored how we communicate among one another. This in turn was useful to envision the scope and relatability of cognitive psychology and was inspired to do more research. Post Masters I spent a year working at the [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/) in the [Cultural Brain](https://culturalbrain.org/) Lab performing experiments to investigate how (il)literacy influences the way our brain sees the world.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  Currently I am working on my PhD in Jena in Germany which is based on the project funded by the [DFG](https://www.dfg.de/) on Binding and Retrieval in Action Control ([BRAC](https://www.brac-psy.de/)). We aim to explore how the stimuli and responses we face in our everyday environment integrate to perform actions. My project specifically connects these short term pairings to long term learning phenomena. Check the [wikipedia page](https://en.wikipedia.org/wiki/Binding_and_Retrieval_in_Action_Control) for more information on this project.
+  
+  <i class="fas fa-graduation-cap pr2"></i>M.Sc (Research Masters) in Cognitive Neuroscience  - 
+  Radboud University  &#8729;   2018
+
+  <i class="fas fa-graduation-cap pr2"></i>B.Sc. in Psychology  -
+  Madras School of Social Work  &#8729;   2016
+  
+  <i class="fas fa-book-open-cover pr2"></i>Research Assistant - 
+  Cultural Brain Lab &#8729;   2018-2019
+
+  
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-m"></i>Connecting Cognitive Psychology to the real world
 ---
 
 ** index doesn't contain a body, just front matter above.
