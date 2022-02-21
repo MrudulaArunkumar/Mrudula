@@ -1,9 +1,9 @@
 ---
-author: Eric Anderson
+author: Mrudula Arunkumar
 categories:
-- Theme Features
-- R
-- package
+- Research
+- Projects
+# - package
 date: "2019-07-03"
 draft: false
 excerpt: Building this static site generator theme was the first time I used an Atomic
