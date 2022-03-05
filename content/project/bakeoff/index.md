@@ -8,9 +8,7 @@ categories:
 - Cognition
 date: "2022-03-05"
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+excerpt: This page contains information on the research topic that I contribute to as a part of my PhD
 #layout options are single or single-sidebar
 layout: single
 links:
@@ -19,7 +17,7 @@ links:
   name: website
   url: https://www.brac-psy.de/
 - icon: wikipedia-w
-  icon_pack: fa-brands
+  icon_pack: fab
   name: Wikipedia
   url: https://en.wikipedia.org/wiki/Binding_and_Retrieval_in_Action_Control
 #subtitle: An R Package
@@ -27,42 +25,34 @@ tags:
 - hugo-site
 ---
 
-![Formspree Logo](formspree-logo.png)
+![BRAC logo](logo_brac.png)
 
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
+## [BRAC](https://brac-psy.de) is a framework that aims to explain human action control and execution by means of understanding relationship between stimulus-response and other cues from the environment. research to explore this has been funded by the [DFG](https://www.dfg.de/) as a part of a Research unit. 
 
 ---
 
-### Functional Form
+### Understanding BRAC through Pavlovian Conditioning
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+My contribution to the Research Unit is by studying more long term phenomena such as learning and exploring how they influence short term stimulus response bindings in explaining action control and execution
+
 
 ```toml
 # please replace with a valid Formspree form id or email address
 formspree_form_id: your@email.here
 ```
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
+#### 1. Selective learning (Overshadowing)
 
-### Multiple Layouts
+Learning in my research projects are established through contingencies and at the experimental level represented as a form of contingency learning where cues are contingent with a target stimulus. 
+In this goal, we studied how saliency of cues can influence what is being learnt and how a more salient cue is learnt compared to absence of learning for the nonsalient cue which was also contingent with the stimulus.
+Interestingly this seems to be driven by insight or awareness of the contingency between the cue and the stimulus and not by automatic build up of repetitive stimulus response pairings.
 
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
+
 
 ```toml
 # layout options: split-right or split-left
 layout: split-right
 ```
 
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
+![BRAC Framework](BRACModel_BindingAndRetrieval.png)
 
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
