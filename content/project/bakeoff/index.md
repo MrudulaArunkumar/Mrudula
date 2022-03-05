@@ -1,28 +1,30 @@
 ---
-author: Eric Anderson
+title: Binding and Retrieval in Action Control (BRAC)
+subtitle: A framework to explain how one executes an action with the information available in the environment
+author: Mrudula Arunkumar
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+- Learning
+- Stimulus-Response Pairs
+- Cognition
+date: "2022-03-05"
 draft: false
 excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
   integration. All you need to activate the form is a valid recipient email address
   saved in the form front matter.
+#layout options are single or single-sidebar
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+  url: https://www.brac-psy.de/
+- icon: wikipedia-w
+  icon_pack: fa-brands
+  name: Wikipedia
+  url: https://en.wikipedia.org/wiki/Binding_and_Retrieval_in_Action_Control
+#subtitle: An R Package
 tags:
 - hugo-site
-title: Bakeoff
 ---
 
 ![Formspree Logo](formspree-logo.png)

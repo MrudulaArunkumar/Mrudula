@@ -17,7 +17,7 @@ intro: |
   Madras School of Social Work  &#8729;   2016
   
   <i class="fas fa-book-open-cover pr2"></i>Research Assistant - 
-  Cultural Brain Lab &#8729;   2018-2019
+  Cultural Brain Lab  &#8729;   2018-2019
 
   
 show_outro: true
