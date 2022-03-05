@@ -36,10 +36,7 @@ tags:
 My contribution to the Research Unit is by studying more long term phenomena such as learning and exploring how they influence short term stimulus response bindings in explaining action control and execution
 
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
+![BRAC Framework](BRACModel_BindingAndRetrieval.png)
 
 #### 1. Selective learning (Overshadowing)
 
@@ -48,11 +45,4 @@ In this goal, we studied how saliency of cues can influence what is being learnt
 Interestingly this seems to be driven by insight or awareness of the contingency between the cue and the stimulus and not by automatic build up of repetitive stimulus response pairings.
 
 
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![BRAC Framework](BRACModel_BindingAndRetrieval.png)
 
