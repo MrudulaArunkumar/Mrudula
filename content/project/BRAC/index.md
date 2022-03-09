@@ -27,7 +27,7 @@ tags:
 
 ![BRAC logo](logo_brac.png)
 
-## [BRAC](https://brac-psy.de) is a framework that aims to explain human action control and execution by means of understanding relationship between stimulus-response and other cues from the environment. research to explore this has been funded by the [DFG](https://www.dfg.de/) as a part of a Research unit. 
+## [BRAC](https://brac-psy.de) is a framework that aims to explain human action control and execution by means of understanding relationship between stimulus-response and other cues from the environment. research to explore this has been funded by the ![DFG](https://www.dfg.de/) as a part of a Research unit. 
 
 ---
 
