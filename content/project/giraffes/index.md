@@ -4,124 +4,37 @@ categories:
 - Research
 - Projects
 # - package
-date: "2019-07-03"
+date: "2022-03-09"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: Before my PhD, I worked for a year at the Max Planck Institue for Psycholinguistics as a Research Assistant at the Cultural Brain Lab in the Department of Psychology of Language.
 layout: single
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
+subtitle: Field work in India to study impact of literacy on visual and auditory perception
 tags:
-- hugo-site
-title: Tachyons for Style
+- RA at MPI
+title: Cultural Influence on Cognition
 ---
 
-![Tachyons Logo Script](tachyons-logo-script.png)
+![MPI](MPI.png)
+![Cultural Brain Group](cultural-brain-logo-large.png)
 
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+#### Reading and writing are cultural inventions that arose recently relative to the existence of the brain. This led to our brain having to adapt to the newer skills of reading and writing since it is not programmed bby default to do so. ([Huettig, Kolinsky & Lachmann,2018](https://pure.mpg.de/rest/items/item_2538749/component/file_2538748/content)
+
 
 ---
 
-### Because Speed
+### Facial Recognition
 
-Building this static site generator theme was the first time I used an Atomic
-(or Functional) CSS system like Tachyons. It's a design system that provides
-very small (which means fast) CSS modules that you can use in your HTML. So,
-rather than writing every line of CSS, you apply the style you need as you write
-your HTML with easy to understand shorthand class names. This makes for a very
-powerful way to style, in the browser, or while building a static site like this
-one – since you can see every change with every save. **It's a joy to use.**
+See paper [here](https://journals.sagepub.com/doi/full/10.1177/0956797620971652) on whether learning to read affects visual perception of faces.
 
-In using this theme for your next static website project, you won't need to know
-anything about Tachyons ... so, don't freak out. Even though I used it to style
-the theme, you won't need to change a thing. BUT, if you do want to play around
-with it, you can make massive changes very easily. Just familiarize yourself
-with the [clear documentation on the design system](http://tachyons.io/docs/).
-Once you dive in, you'll recognize all the classes I'm using in the markup.
+### Mirror Discrimination
 
-### BYOTachyons
+Learn more about this in our [paper](https://pure.mpg.de/rest/items/item_3259117_3/component/file_3261431/content)
 
-One of the best features of Tachyons is the exhaustive [component
-library](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)
-contributed by the community. All those components are built to work with the
-Tachyons classes, so they will work in this theme too! You can copy/paste
-components in order to quickly block out a page, then fill in your content.
+### Visual Illusions
 
-### Taste the Rainbow
+Replicating a study done decades ago resulted in a different result. More details illustrated in our paper. Click [here](https://link.springer.com/article/10.1007/s41809-021-00080-x) to read more.
 
-We've leveraged the [accessible color
-combinations](http://tachyons.io/docs/themes/skins/) included with Tachyons to
-offer an easy way for you to setup your site using your favorite colors. In the
-site configuration file (`config.toml`), there is a full set of color parameters
-giving you control over the theme color scheme. For an option like `siteBgColor`
-for example, you can just type one of the predefined color names from Tachyons
-and save the file. You can totally customize the theme colors within minutes of
-installing the theme.
 
-```toml
-# basic color options: use only color names as shown in the
-# "Color Palette" section of http://tachyons.io/docs/themes/skins/
-siteBgColor = "near-white"
-sidebarBgColor = "light-gray"
-headingColor = "black"
-textColor = "dark-gray"
-sidebarTextColor = "mid-gray"
-bodyLinkColor = "blue"
-navLinkColor = "near-black"
-sidebarLinkColor = "near-black"
-footerTextColor = "silver"
-buttonTextColor = "near-white"
-buttonBgColor = "black"
-buttonHoverTextColor = "white"
-buttonHoverBgColor = "blue"
-borderColor = "moon-gray"
-```
+### Auditory Perception
 
-### Dig Deeper
 
-Let's say you have a style guide to follow and `washed-blue` just won't cut the
-mustard. We built Blogophonic for you, too. There is a bypass of these
-predefined colors built in, you just need to dig a little deeper. In the theme
-assets, locate and open the main SCSS file (`/assets/main.scss`). After the
-crazy looking variables you probably don't recognize and directly following the
-Tachyons import (`@import 'tachyons';`) you'll see a comment that looks just
-like this:
-
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-// @import 'custom-colors';
-```
-
-Once you uncomment the `custom-colors` import, it will look like this:
-
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-@import "custom-colors";
-```
-
-Save that change, and now the color options in the `config.toml` are no longer
-active – they've been bypassed. To customize the colors, locate and open the
-`custom-colors` file found in the theme assets (`/assets/custom-colors.scss`).
-At the top of that file, you'll find a whole new set of variables for all the
-same color options, but this time you get to assign your own HEX codes.
-
-```scss
-// set your custom colors here
-$siteBgColorCustom: #e3e3da;
-$sidebarBgColorCustom: #dbdbd2;
-$textColorCustom: #666260;
-$sidebarTextColorCustom: #666260;
-$headingColorCustom: #103742;
-$bodyLinkColorCustom: #c4001a;
-$navLinkColorCustom: #c4001a;
-$sidebarLinkColorCustom: #c4001a;
-$footerTextColorCustom: #918f8d;
-$buttonTextColorCustom: #f7f7f4;
-$buttonHoverTextColorCustom: #f9f9f8;
-$buttonBgColorCustom: #103742;
-$buttonHoverBgColorCustom: #c4001a;
-$borderColorCustom: #c4beb9;
-```
