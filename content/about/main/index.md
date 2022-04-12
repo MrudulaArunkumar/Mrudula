@@ -2,8 +2,8 @@
 ## Configure page content in wide column
 title: "The Journey so far" # leave blank to exclude
 number_featured: 2 # pulling from mainSections in config.toml
-use_featured: false # if false, use most recent by date
-number_categories: 0 # set to zero to exclude
+use_featured: false # if false, use most recent by date and if true then uses some highlighted page
+number_categories: 0 # set to zero to exclude #can add keyowrds of website and use terms that can be categorised
 show_intro: true
 intro: |
   What interested me the most about Psychology was how the aspects of our day-to-day behaviour can be explained and that it is possible to dig deeper into what goes behind such behaviours. During my undergraduation, cognitive psychology specifically drew my interest as it felt closest to what inspired me to choose to study psychology. While pursuing a Masters degree, I learnt more about language processing and explored how we communicate among one another. This in turn was useful to envision the scope and relatability of cognitive psychology and was inspired to do more research. Post Masters I spent a year working at the [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/) in the [Cultural Brain](https://culturalbrain.org/) Lab performing experiments to investigate how (il)literacy influences the way our brain sees the world.
