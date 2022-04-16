@@ -10,7 +10,7 @@ excerpt: Before my PhD, I worked for a year at the Max Planck Institue for Psych
 layout: single
 subtitle: Field work in India to study impact of literacy on visual and auditory perception
 tags:
-- RA at MPI
+- Literacy
 title: Cultural Influence on Cognition
 ---
 
