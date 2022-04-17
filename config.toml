@@ -151,7 +151,7 @@ enableEmoji = true
 
 # Permalinks
 [permalinks]
-  portfolio = "/presentation/_index/"
+  presentation = "/presentation/_index/"
 
     
   # Configure footer  
