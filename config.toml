@@ -148,6 +148,11 @@ enableEmoji = true
     title = "Publication"
     url = "/publication/"
     weight = 4
+
+# Permalinks
+[permalinks]
+  portfolio = "/presentation/_index/"
+
     
   # Configure footer  
   [[menu.footer]]
