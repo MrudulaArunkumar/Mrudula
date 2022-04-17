@@ -35,7 +35,7 @@ enableEmoji = true
   favicon = "/img/favicon.ico" #for the icon that identifies the website in the browser tabs
   #logo = "/img/blogophonic-mark-dark.png"
   logo = "/img/favicon.ico"
-  mainSections = ["project", "presentation"] #involves the sections mentioned in the About Page
+  mainSections = ["project", "talks"] #involves the sections mentioned in the About Page
   navallcaps = true #caps or not for the heading
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
