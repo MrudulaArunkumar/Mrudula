@@ -141,7 +141,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Presentation"
     title = "Talks & Posters"
-    url = "/presentation/"
+    url = "/talk/"
     weight = 3
   [[menu.header]]
     name = "Publication"
