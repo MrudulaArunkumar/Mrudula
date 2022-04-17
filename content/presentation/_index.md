@@ -7,8 +7,8 @@ cascade:
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
-    text_link_label: View recent posts
-    text_link_url: /presentation/
+    text_link_label: ""
+    text_link_url: ""
 description: "List of presentations (talks and posters) that I have presented so far. \n"
 layout: list-sidebar #check for other options in the hugo blogpost by AH
 show_author_byline: true
