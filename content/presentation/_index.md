@@ -1,16 +1,15 @@
 ---
+type: project
+cascade:
+  type: project
 author: Mrudula Arunkumar
 cascade:
   author: Mrudula Arunkumar #makes me the author for all the posts
   show_author_byline: true
   show_comments: true
   show_post_date: true
-  sidebar:
-    show_sidebar_adunit: false
-    text_link_label: ""
-    text_link_url: ""
 description: "List of presentations (talks and posters) that I have presented so far. \n"
-layout: list-sidebar #check for other options in the hugo blogpost by AH
+layout: list #check for other options in the hugo blogpost by AH
 show_author_byline: true
 show_button_links: false
 show_post_date: true
