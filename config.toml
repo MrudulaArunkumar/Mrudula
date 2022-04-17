@@ -149,9 +149,6 @@ enableEmoji = true
     url = "/publication/"
     weight = 4
 
-# Permalinks
-[permalinks]
-  presentation = "/presentation/_index/"
 
     
   # Configure footer  
