@@ -1,14 +1,14 @@
 ---
-type: project
+type: blog
 cascade:
-  type: project
+  type: blog
 author: Mrudula Arunkumar
 cascade:
   author: Mrudula Arunkumar #makes me the author for all the posts
   show_author_byline: true
   show_comments: true
   show_post_date: true
-description: "List of presentations (talks and posters) that I have presented so far. \n"
+description: "List of publications. \n"
 layout: list #check for other options in the hugo blogpost by AH
 show_author_byline: true
 show_button_links: false
@@ -24,7 +24,7 @@ sidebar:
   text_link_url: ""
   title: A Sidebar for Your Thoughts
 thumbnail_left: true
-title: Talks & Posters
+title: Publications
 ---
 
 ** No content below YAML for the blog _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.**

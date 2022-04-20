@@ -139,14 +139,14 @@ enableEmoji = true
     url = "/project/"
     weight = 2
   [[menu.header]]
-    name = "Talks"
+    name = "Presentation"
     title = "Talks & Posters"
     url = "/talk/"
     weight = 3
   [[menu.header]]
     name = "Publications"
-    title = "Publication"
-    url = "/publication/"
+    title = "Publications"
+    url = "/blog/"
     weight = 4
 
 

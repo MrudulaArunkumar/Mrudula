@@ -1,0 +1,32 @@
+---
+author: Mrudula Arunkumar
+categories:
+- conference
+- poster
+date: "2021-11-05"
+date_end: "2021-11-05"
+draft: false
+event: Annual Psychonomic Meeting 2021
+event_url: https://www.psychonomic.org/page/2021annualmeeting
+excerpt: Presented a virtual poster at *Psychonomic Scoiety meeting* in 2021 on the role of awareness and transient bindings on overshadowing using a contingency learning paradigm.
+featured: true
+layout: single
+links:
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://www.psychonomic.org/page/2021annualmeeting
+- icon: note-sticky
+  icon_pack: fab
+  name: Slides
+  url: https://osf.io/p9dwb/
+location: Online
+show_post_time: false
+subtitle: Role of awareness and stimulus response bindings on selective contingency learning
+title: Being in the (k)now
+---
+
+```{r echo = FALSE}
+knitr::include_graphics(path = "Poster_1141_Psychonomics.jpg", dpi = 5000)
+```
+
