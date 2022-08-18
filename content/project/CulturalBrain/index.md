@@ -10,14 +10,14 @@ excerpt: Before my PhD, I worked for a year at the Max Planck Institue for Psych
 layout: single
 subtitle: Field work in India to study impact of literacy on visual and auditory perception
 tags:
-- RA at MPI
+- Literacy
 title: Cultural Influence on Cognition
 ---
 
 ![MPI](MPI.png)
 ![Cultural Brain Group](cultural-brain-logo-large.png)
 
-#### Reading and writing are cultural inventions that arose recently relative to the existence of the brain. This led to our brain having to adapt to the newer skills of reading and writing since it is not programmed bby default to do so. ([Huettig, Kolinsky & Lachmann,2018](https://pure.mpg.de/rest/items/item_2538749/component/file_2538748/content)
+#### Reading and writing are cultural inventions that arose recently relative to the existence of the brain. This led to our brain having to adapt to the newer skills of reading and writing since it is not programmed bby default to do so. [(Huettig, Kolinsky & Lachmann,2018)](https://pure.mpg.de/rest/items/item_2538749/component/file_2538748/content)
 
 
 ---

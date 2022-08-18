@@ -1,34 +1,33 @@
 ---
+type: blog
+cascade:
+  type: blog
 author: Mrudula Arunkumar
 cascade:
   author: Mrudula Arunkumar #makes me the author for all the posts
   show_author_byline: true
   show_comments: true
   show_post_date: true
-  sidebar:
-    show_sidebar_adunit: false
-    text_link_label: View recent posts
-    text_link_url: /blog/
-description: "List of articles on my thoughts on science and summaries of articles that I read. \n"
-layout: list-sidebar #check for other options in the hugo blogpost by AH
+description: "List of publications. \n"
+layout: list #check for other options in the hugo blogpost by AH
 show_author_byline: true
 show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: The R Markdown Team @RStudio
+  author: Mrudula Arunkumar
   description: "This is a fully featured blog that supports categories,\ntags, series,
     and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
     the _index.md file in the /blog folder \nto edit this content. \n"
   show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
+  text_link_label: ""
+  text_link_url: ""
   title: A Sidebar for Your Thoughts
 thumbnail_left: true
-title: Blogs
+title: Publications
 ---
 
 ** No content below YAML for the blog _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.**
 
 #for each blogpost create a folder and useful tip is to add a date
-#all the posts need to be i nmarkdown format and you can modify this using .RProfile
+#all the posts need to be in markdown format and you can modify this using .RProfile
