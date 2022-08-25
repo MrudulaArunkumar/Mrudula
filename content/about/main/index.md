@@ -16,13 +16,13 @@ intro: |
   <i class="fas fa-graduation-cap pr2"></i>B.Sc. in Psychology  -
   Madras School of Social Work  &#8729;   2016
   
-  <i class="fa-solid fa-bookmark"></i>Research Assistant - 
+  <i class="fas fa-book-open"></i>Research Assistant - 
   Cultural Brain Lab  &#8729;   2018-2019
 
   
 show_outro: true
 outro: |
-  <i class="fa-regular fa-head-side-brain"></i>Connecting Cognitive Psychology to the real world
+  <i class="fas fa-comments"></i>Connecting Cognitive Psychology to the real world
 ---
 
 ** index doesn't contain a body, just front matter above.
