@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  A PhD student studying cognitive psychology in Germany.
+  Cognitive research scientist in Germany.
 show_header: true
 sidebar_left: true
 title: About Mrudula

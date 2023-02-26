@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am pursuing my PhD in *Friedrich-Schiller University Jena* in Germany by exploring the relationship between short term stimulus response pairings and their role in leading to long-term learning effects using learning phenomena from Pavlovian Conditioning.
+Pursuing cognitive behavioural research through my PhD in *Friedrich-Schiller University Jena* in Germany. Current research themes include  exploring the role of automatic behavioural responses and conscious awareness during learning (inspired from higher order [Pavlovian Conditioning](https://www.simplypsychology.org/pavlov.html)). I have worked with reaction time, accuracy and eye tracking data to analyze and interpret how people learn under various learning scenario involving multiple cues.
