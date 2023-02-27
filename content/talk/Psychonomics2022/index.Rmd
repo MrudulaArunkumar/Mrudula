@@ -1,0 +1,32 @@
+---
+author: Mrudula Arunkumar
+categories:
+- conference
+- poster
+date: "2022-11-17"
+date_end: "2022-11-19"
+draft: false
+event: Annual Psychonomic Meeting 2022
+event_url: https://www.psychonomic.org/page/2022annualmeeting
+excerpt: Presented a poster at *Psychonomic Scoiety meeting* in 2022 held at Boston, USA on how prior associations between stimuli benefit learning from contingencies but not with transient stimulus response bindings.
+featured: true
+layout: single
+links:
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://www.psychonomic.org/page/2022annualmeeting
+- icon: note-sticky
+  icon_pack: fab
+  name: Slides
+  url: https://osf.io/p9dwb/
+location: Online
+show_post_time: false
+subtitle: Retrieval of response from an associated stimulus in contingency learning and stimulus response binding
+title: Cling together? Swing together?
+---
+
+```{r echo = FALSE}
+knitr::include_graphics(path = "Poster_Psychonomics_2022.jpg", dpi = 5000)
+```
+
